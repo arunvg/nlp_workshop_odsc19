@@ -7,4 +7,4 @@ Contains all tutorials and hands-on examples for the ODSC 2019 Workshop. Use the
 
 
 ## Open in Jupyter nbviewer  
-[![Open in nbviewer](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png)](https://nbviewer.jupyter.org/github/dipanjanS/nlp_workshop_odsc19/tree/master)
+[![Open in nbviewer](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png)](https://nbviewer.jupyter.org/github/arunvg/nlp_workshop_odsc19/tree/master)
